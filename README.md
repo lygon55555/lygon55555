@@ -3,8 +3,8 @@
 <p align="center">
   <br>
   I'm Yonghyun.<br>
-  An iOS Developer from Seoul, Korea.<br>
-  I design and develop iOS apps.
+  An iOS Developer from Seoul, Korea 🇰🇷<br>
+  I design and develop iOS apps 🧑‍💻
   <br>
 </p>
 
