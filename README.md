@@ -2,7 +2,8 @@
 
 <p align="center">
   <br>
-I'm Yonghyun. An iOS Developer from Seoul, Korea. I design and develop iOS apps.
+I'm Yonghyun. An iOS Developer from Seoul, Korea.<br>
+  I design and develop iOS apps.
   <br>
 </p>
 
