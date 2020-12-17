@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```Swift
 enum ProgrammingLanguage {
   case swift
   case objectiveC
