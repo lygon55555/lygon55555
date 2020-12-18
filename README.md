@@ -13,6 +13,7 @@ enum MyInterests {
   case BigData
   case ImageProcessing
   case UI_UX
+  case DarkMode
 }
 
 open class Yonghyun {
