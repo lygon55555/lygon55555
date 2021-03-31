@@ -1,5 +1,5 @@
 ### Hi there 👋
-![carbon](https://user-images.githubusercontent.com/39911797/103495638-d4ebc880-4e7e-11eb-9be5-b62d14a7ab31.png)
+![carbon (2)](https://user-images.githubusercontent.com/39911797/113114198-0e498f80-9246-11eb-9887-a8e285e9ee47.png)
 
 
 <!--
